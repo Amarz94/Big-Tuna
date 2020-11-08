@@ -1,5 +1,7 @@
 # About me Site
 
+![](Files/Images/SiteSS.JPG)
+
 ## Project Overview
  
 - Used the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
